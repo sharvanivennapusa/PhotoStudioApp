@@ -1,14 +1,14 @@
 # PhotoStudioApp
 
-<h1 align="center">Photostudio User</h1>
+<h1 align="center">Photostudio App</h1>
 
 <p align="center">  
   Simple web app to book the professional photographer in your location</br>
 </p>
 </br>
 <p align="center">
-  <img src="/pictures/1 BEFORE LOGIN.png" width="50%" />
-  <img src="/pictures/weatherApp4.png" width="50%" />
+  <img src="/Screenshots/1 BEFORE LOGIN.png" width="50%" />
+  <img src="/Screenshots/weatherApp4.png" width="50%" />
 </p>
 
 ## Features
