@@ -8,8 +8,11 @@
 </br>
 <p align="center">
   <img src="/Screenshots/1 BEFORE LOGIN.PNG" width="50%" />
-  <img src="/Screenshots/weatherApp4.png" width="50%" />
+  <img src="/Screenshots/3 login.png" width="50%" />
 </p>
+<p>Before login : home, gallary and contact us are the only tabs which are visible. some tabs cannot be shown publicly
+Login - Only community guest user those who registered on register page can login. If user forget password he can reset it on forgot password page.
+  </p>
 
 ## Features
 - Service Bot
@@ -33,10 +36,10 @@
 ## Open API
 Openweather Api is used to provide accurate weather data</br>
 
-## Download
+## Download 
 Web app Link: https://tcsservices-developer-edition.ap24.force.com/PhotoStudioUser 
-1. Before login : home, gallary and contact us are the only tabs which are visible. some tabs cannot be shown publicly
-2. Login - Only community guest user those who registered on register page can login. If user forget password he can reset it on forgot password page.
+  1. Before login : home, gallary and contact us are the only tabs which are visible. some tabs cannot be shown publicly
+  2. Login - Only community guest user those who registered on register page can login. If user forget password he can reset it on forgot password page.
 3. After Login -  Now user can be able to view photographers and booking sections.
 4. Photograpgers - users can choose photographers according to location. They can book for the photographer.
 5. Booking - Users can view their booking details on this page and also they can book for new event. 
