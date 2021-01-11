@@ -7,7 +7,7 @@
 </p>
 </br>
 <p align="center">
-  <img src="/Screenshots/1 BEFORE LOGIN.png" width="50%" />
+  <img src="/Screenshots/1 BEFORE LOGIN.PNG" width="50%" />
   <img src="/Screenshots/weatherApp4.png" width="50%" />
 </p>
 
