@@ -7,8 +7,8 @@
 </p>
 </br>
 <p align="center">
-  <img src="/Screenshots/1 BEFORE LOGIN.PNG" width="50%" />
-  <img src="/Screenshots/3 login.PNG" width="50%" />
+  <img src="/Screenshots/1 BEFORE LOGIN.PNG" width="30%" />
+  <img src="/Screenshots/3 login.PNG" width="30%" />
 </p>
 <p>Before login : home, gallary and contact us are the only tabs which are visible. some tabs cannot be shown publicly
 Login - Only community guest user those who registered on register page can login. If user forget password he can reset it on forgot password page.
