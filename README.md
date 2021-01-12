@@ -30,7 +30,7 @@ Contact us - Users can create a case if they have any queries or they can mail t
 </br>
 <p align="center">
   <img src="/Screenshots/9 contact us.PNG" width="40%" />
-  <img src="/chat bot .PNG" width="40%" />
+  <img src="/chat bot.PNG" width="40%" />
 </p>
 
 ## Features
